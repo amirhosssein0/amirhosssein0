@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Amirhosein<br>I'm django and ML programmer and currently I'm working on smarts web.<br>-----<br>🚀I study Computer science in bachelor and I want study Data Science in master.<br>-----<br>🎯My goal is becoming a data scientist who knows back-end and develope intelligence web applications!
+👋 Hi, I'm Amirhosein<br>I'm django and ML programmer and currently I'm working on smarts web.<br>-----<br>🚀I study Computer science in bachelor.<br>-----<br>🎯My goal is becoming a great computer scientist and Back-end developer!
 
 
 ## 🌐 Socials:
