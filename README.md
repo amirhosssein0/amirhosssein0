@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Amirhosein<br>I'm django and ML programmer; however I'm interested in Devops and networking.<br>-----<br>🚀I study Computer science in bachelor.<br>-----<br>🎯My goal is becoming a great Devops and MLops!
+👋 Hi, I'm Amirhosein<br>I'm django and ML programmer; however I'm interested in Devops and networking.<br>-----<br>🚀I study Computer science in bachelor.<br>-----<br>🎯My goal is becoming a great MLops engineer!
 
 
 ## 🌐 Socials:
