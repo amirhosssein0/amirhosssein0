@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Amirhosein<br>I'm django and ML programmer.<br>-----<br>🚀I study Computer engineering in bachelor.<br>-----<br>🔭I'm currently working on Linux and DevOps<br>-----<br>🎯My goal is becoming a great Devops engineer!
+👋 Hi, I'm Amirhosein<br>💻I'm django and ML programmer.<br>-----<br>🚀I study Computer engineering in bachelor.<br>-----<br>🔭I'm currently working on Linux and DevOps<br>-----<br>🎯My goal is becoming a great Devops engineer!
 
 
 ## 🌐 Socials:
