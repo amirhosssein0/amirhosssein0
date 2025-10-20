@@ -4,7 +4,7 @@
 </p>
 
 # 💫 About Me:
-👋 Hi, I'm Amirhossein  
+👋 Hi, I'm Amirhossein. 
 -----  
 💻 I'm a rookie DevOps engineer.  
 -----  
@@ -12,7 +12,7 @@
 -----  
 🔭 I'm currently working on **Linux**, **DevOps**, and **Go**.  
 -----  
-🎯 My goal is to become a great **DevOps Engineer**!
+🎯 **My goal is to become a great DevOps Engineer**!
 
 ---
 
