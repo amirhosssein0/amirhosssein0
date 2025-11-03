@@ -29,6 +29,7 @@
 ### 🧠 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -50,6 +51,8 @@
 
 ### ⚙️ DevOps & Cloud
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vim](https://img.shields.io/badge/vim-%23019733.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Nano](https://img.shields.io/badge/nano-%230092CC.svg?style=for-the-badge&logo=gnu&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
@@ -67,12 +70,6 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-### 📦 Package Managers
-![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![pip](https://img.shields.io/badge/pip-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
-![Go Modules](https://img.shields.io/badge/go%20modules-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![APT](https://img.shields.io/badge/apt-%23007ACC.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### 🧰 Version Control & Collaboration
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
