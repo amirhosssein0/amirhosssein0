@@ -10,7 +10,7 @@
 👋 Hi, I'm **Amirhossein**  
 💻 I'm a **rookie DevOps Engineer** passionate about automation, scalability, and infrastructure.  
 🎓 I'm studying **Computer Engineering (Bachelor's)**.  
-🔭 Currently focusing on **Linux**, **DevOps**.  
+🔭 Currently focusing on **Linux** and **DevOps**.  
 🎯 My goal is to become a **great DevOps Engineer**!  
 
 ---
@@ -42,6 +42,7 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-%2300CFFF?style=for-the-badge&logo=bruno&logoColor=white)
 
 ### 🗄️ Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
