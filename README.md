@@ -10,7 +10,7 @@
 👋 Hi, I'm **Amirhossein**  
 💻 I'm a **rookie DevOps Engineer** passionate about automation, scalability, and infrastructure.  
 🎓 I'm studying **Computer Engineering (Bachelor's)**.  
-🔭 Currently focusing on **Linux**, **DevOps**, and **Go**.  
+🔭 Currently focusing on **Linux**, **DevOps**.  
 🎯 My goal is to become a **great DevOps Engineer**!  
 
 ---
