@@ -118,34 +118,38 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirhosssein0&theme=dark&show_icons=true" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amirhosssein0&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://streak-stats.demolab.com?user=amirhosssein0&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosssein0&layout=compact&theme=dark" />
 </p>
 
 ---
 
-## ✍️ Random Dev Quote
-
+## 🏆 Trophies
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amirhosssein0&theme=radical&margin-w=4" />
 </p>
 
 ---
 
-## 🔝 Top Contributed Repos
-
+## ✍️ Dev Quote
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=amirhosssein0&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=amirhosssein0&icon=0&color=0" alt="Profile Views" />
-  </a>
+  <img src="https://visitcount.itsvg.in/api?id=amirhosssein0&icon=0&color=0" />
 </p>
+
 
 <!-- Proudly crafted with a bit of YAML, Bash, and ☕ -->
