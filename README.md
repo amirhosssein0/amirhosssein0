@@ -3,19 +3,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=🚀+DevOps+Enthusiast;🐧+Linux+%26+Cloud+Lover;⚡+Continuous+Learner+%7C+Open+Source+Fan" alt="Typing SVG" />
 </p>
 
+<h1 align="center">Hey, I'm Amirhossein 👋</h1>
+
+<p align="center">
+  🐧 Rookie <b>DevOps Engineer</b> who loves automation, scalability & reliable infrastructure.
+  <br />
+  🎓 BSc <b>Computer Engineering</b> student.
+  <br />
+  ☁️ Passionate about <b>Linux</b>, <b>Cloud</b> & <b>DevOps culture</b>.
+</p>
+
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-👋 Hey! I'm **Amirhossein**  
-💻 A **rookie DevOps Engineer** who loves automation, scalability, and building reliable infrastructure.  
-🎓 Currently studying **Computer Engineering (BSc)**.  
-🐧 Passionate about **Linux**, **Cloud**, and **DevOps culture**.  
-🎯 My goal is to grow into a **strong DevOps Engineer** and contribute to real-world production systems.
+- 💻 I’m a **junior DevOps engineer** exploring how to make systems more **automated**, **repeatable** and **observable**.
+- 🚀 Interested in **cloud-native**, **microservices**, and **production-grade** infrastructure.
+- 🎯 Long-term goal: become a **strong DevOps / Platform Engineer** and work on real-world, high-traffic systems.
 
-- 🔭 Currently learning: **Terraform**, **Kubernetes**, **AWS**, and **CI/CD pipelines**
+**Currently focusing on:**
+
+- 🔭 Learning: **Terraform**, **Kubernetes**, **AWS**, and **CI/CD pipelines**
 - ⚙️ Enjoy working with: **containers**, **monitoring**, and **infrastructure as code**
-- ❤️ I like keeping things: **automated**, **repeatable**, and **observable**
 
 ---
 
@@ -29,15 +38,15 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### 🧠 Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🌐 Web Frameworks & API Tools
 
@@ -74,8 +83,9 @@
 ### 🧪 Testing & Linting
 
 ![Playwright](https://img.shields.io/badge/-Playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) 
 
 ### 🚀 CI/CD, Monitoring & Collaboration
 
@@ -87,13 +97,12 @@
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amirhosssein0&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -117,7 +126,7 @@
 
 ---
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
@@ -125,7 +134,7 @@
 
 ---
 
-### 🔝 Top Contributed Repos
+## 🔝 Top Contributed Repos
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=amirhosssein0&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
