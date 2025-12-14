@@ -88,11 +88,13 @@
 
 ---
 
-### 🧪 Testing
+### 🧪 Testing & Linting
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-333?style=for-the-badge)
 ![Integration Testing](https://img.shields.io/badge/Integration%20Testing-333?style=for-the-badge)
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/Testing%20Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 ---
 
