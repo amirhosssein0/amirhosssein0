@@ -42,13 +42,14 @@
 - 💻 Junior **DevOps Engineer** building **automated**, **repeatable**, and **observable** systems
 - 🚀 Interested in **cloud-native**, **microservices**, and **production-grade** infrastructure
 - 🧠 Strong backend fundamentals + hands-on DevOps mindset
-- 🎯 Goal: become a **DevOps / Platform Engineer** working on real-world, high-scale systems
+- 🎯 Goal: become a **CEO** and **Founder** of greate ideas!
 
 ### 🎯 Currently Focusing On
 - Kubernetes & cloud-native tooling
 - Terraform & Infrastructure as Code
 - CI/CD pipelines & automation
 - Monitoring, networking, and reliability
+- Build my **Startup** and **SaaS**
 
 ---
 
