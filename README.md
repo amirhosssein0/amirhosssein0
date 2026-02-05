@@ -42,14 +42,11 @@
 - 💻 Junior **DevOps Engineer** building **automated**, **repeatable**, and **observable** systems
 - 🚀 Interested in **cloud-native**, **microservices**, and **production-grade** infrastructure
 - 🧠 Strong backend fundamentals + hands-on DevOps mindset
-- 🎯 Goal: become a **CEO** and **Founder** of greate ideas!
+- 🎯 Goal: **CKA**, **Terraform associated** and **AWS Devops** exams!
 
 ### 🎯 Currently Focusing On
 - Kubernetes & cloud-native tooling
 - Terraform & Infrastructure as Code
-- CI/CD pipelines & automation
-- Monitoring, networking, and reliability
-- Build my **Startup** and **SaaS**
 
 ---
 
@@ -94,9 +91,5 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=amirhosssein0&icon=0&color=0" alt="Profile Views" />
-</p>
 
 <!-- Proudly crafted with a bit of YAML, Bash, and ☕ -->
