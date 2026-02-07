@@ -64,6 +64,7 @@
 - Infrastructure as Code with Terraform
 - Observability and production readiness
 - Improving developer experience through platform abstractions
+- CKA , Terraform, Vault exams
 
 ---
 
