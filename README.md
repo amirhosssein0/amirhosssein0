@@ -116,5 +116,4 @@ Platform-first mindset: fast to build on, fast to deploy, observable, reliable, 
 ### 📜 Certifications
 
 <img src="my-cka.png" alt="Certified Kubernetes Administrator" width="140"/>
-
-**Certified Kubernetes Administrator (CKA)**
+<img src="my-aws.png" alt="Certified aws solutions architect" width="140"/>
