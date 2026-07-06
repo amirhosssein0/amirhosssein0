@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Amirhossein 👋</h1>
+<h1 align="center">Hi there, I'm Amirhossein</h1>
 <h3 align="center">Platform Engineer & DevSecOps Engineer</h3>
 
 <p align="center">
@@ -19,16 +19,23 @@ Platform-first mindset: fast to build on, fast to deploy, observable, reliable, 
 
 ### 🧰 Tech Stack
 
-**Languages**
+**Languages & OS**
 
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-
+ 
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+ 
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+ 
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 
@@ -38,8 +45,7 @@ Platform-first mindset: fast to build on, fast to deploy, observable, reliable, 
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-
-
+ 
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
@@ -51,18 +57,15 @@ Platform-first mindset: fast to build on, fast to deploy, observable, reliable, 
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
-
+ 
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-
-
+ 
 
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-
-
+ 
 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -74,8 +77,7 @@ Platform-first mindset: fast to build on, fast to deploy, observable, reliable, 
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-
-
+ 
 
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
@@ -87,8 +89,7 @@ Platform-first mindset: fast to build on, fast to deploy, observable, reliable, 
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
-
-
+ 
 
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
@@ -100,28 +101,23 @@ Platform-first mindset: fast to build on, fast to deploy, observable, reliable, 
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-
-
+ 
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-
-
+ 
 
 ![Grafana Tempo](https://img.shields.io/badge/Grafana_Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-
-
+ 
 
 ![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-
-
+ 
 
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
-
-
+ 
 
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
@@ -133,23 +129,19 @@ Platform-first mindset: fast to build on, fast to deploy, observable, reliable, 
 
 ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
 
-
-
+ 
 
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logoColor=white)
 
-
-
+ 
 
 ![Checkov](https://img.shields.io/badge/Checkov-2E5077?style=for-the-badge&logoColor=white)
 
-
-
+ 
 
 ![Kyverno](https://img.shields.io/badge/Kyverno-4051B5?style=for-the-badge&logoColor=white)
 
-
-
+ 
 
 ![Falco](https://img.shields.io/badge/Falco-00AEC7?style=for-the-badge&logoColor=white)
 
@@ -161,13 +153,11 @@ Platform-first mindset: fast to build on, fast to deploy, observable, reliable, 
 
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-
-
+ 
 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-
-
+ 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
