@@ -209,7 +209,7 @@ I learn best by building real, end-to-end systems rather than isolated tutorials
 
 ### 🎓 Education
 
-**B.Sc. Computer Science** — University of Messina
+**B.Sc. Computer Science** — University of Messina🇮🇹
 
 ---
 
