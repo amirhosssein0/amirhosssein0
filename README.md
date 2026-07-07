@@ -7,6 +7,8 @@ I build production-realistic infrastructure and Kubernetes-native platforms — 
 
 ---
 
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhosssein0&show_icons=true&theme=dark)
+
 ### 🎯 What I focus on
 
 - **Platform Engineering** — designing Kubernetes platforms that other engineers can actually build on top of (GitOps, self-service, sane defaults)
