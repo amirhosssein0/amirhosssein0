@@ -84,5 +84,4 @@ I learn best by building real, end-to-end systems rather than isolated tutorials
 <p align="center">
   <img src="my-cka.png" alt="Certified Kubernetes Administrator" width="140"/>
   &nbsp;&nbsp;
-  <img src="my-aws.png" alt="Certified AWS Solutions Architect" width="140"/>
 </p>
