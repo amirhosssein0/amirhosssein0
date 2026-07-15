@@ -13,6 +13,7 @@ I build production-realistic infrastructure and Kubernetes-native platforms — 
 - **DevSecOps** — shift-left scanning, admission control, and runtime security as a standard part of every deployment pipeline, not an afterthought
 - **Infrastructure as Code** — Terraform-first, cost-conscious, reproducible environments
 - **Cloud-native Architecture** — event-driven systems, autoscaling, and observability on Kubernetes
+- **Software Supply Chain Security** — SBOM generation, image signing, and artifact verification with Syft & Cosign
 
 I learn best by building real, end-to-end systems rather than isolated tutorials — every repo below runs on a live cloud environment, gets destroyed and rebuilt, and is intentionally over-engineered on the security side because that's the part most portfolios skip.
 
@@ -45,11 +46,17 @@ I learn best by building real, end-to-end systems rather than isolated tutorials
 
 **Containers & Orchestration**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 **CI/CD & GitOps**
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
 **IaC & Configuration Management**
 
@@ -61,7 +68,14 @@ I learn best by building real, end-to-end systems rather than isolated tutorials
 
 **Security & Compliance**
 
-![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logoColor=white) ![Checkov](https://img.shields.io/badge/Checkov-2E5077?style=for-the-badge&logoColor=white) ![Kyverno](https://img.shields.io/badge/Kyverno-4051B5?style=for-the-badge&logoColor=white) ![Falco](https://img.shields.io/badge/Falco-00AEC7?style=for-the-badge&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logoColor=white)
+![Checkov](https://img.shields.io/badge/Checkov-2E5077?style=for-the-badge&logoColor=white)
+![Kyverno](https://img.shields.io/badge/Kyverno-4051B5?style=for-the-badge&logoColor=white)
+![Falco](https://img.shields.io/badge/Falco-00AEC7?style=for-the-badge&logoColor=white)
+![Cosign](https://img.shields.io/badge/Cosign-3F51B5?style=for-the-badge&logo=sigstore&logoColor=white)
+![Syft](https://img.shields.io/badge/Syft-0B5FFF?style=for-the-badge&logoColor=white)
+![SBOM](https://img.shields.io/badge/SBOM-222222?style=for-the-badge)
 
 **Data & Messaging**
 
@@ -84,4 +98,5 @@ I learn best by building real, end-to-end systems rather than isolated tutorials
 <p align="center">
   <img src="my-cka.png" alt="Certified Kubernetes Administrator" width="140"/>
   &nbsp;&nbsp;
+  <img src="my-terraform.png" alt="HashiCorp Terraform Associate" width="140"/>
 </p>
