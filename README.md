@@ -97,6 +97,4 @@ I learn best by building real, end-to-end systems rather than isolated tutorials
 
 <p align="center">
   <img src="my-cka.png" alt="Certified Kubernetes Administrator" width="140"/>
-  &nbsp;&nbsp;
-  <img src="my-terraform.png" alt="HashiCorp Terraform Associate" width="140"/>
 </p>
