@@ -23,6 +23,7 @@ I learn best by building real, end-to-end systems rather than isolated tutorials
 
 | Project | What it demonstrates |
 |---|---|
+| [**jenkins-security-lab**](https://github.com/amirhosssein0/jenkins-security-lab) | Jenkins CI with dynamic K8s agents feeding a full software supply-chain security pipeline: Checkov IaC scanning, Kaniko rootless builds, Syft SBOM generation, Trivy CVE gating, Cosign signing & attestation, Kyverno enforce-mode admission control, Falco runtime monitoring, Velero+MinIO backups — all local-first on kind |
 | [**kafka-and-security-lab**](https://github.com/amirhosssein0/kafka-and-security-lab) | Event-driven architecture (Kafka + KEDA) on AKS with a full DevSecOps pipeline: Trivy, Checkov, Kyverno, Falco, Velero, GitOps via ArgoCD |
 | [**k8s-gitops-lab**](https://github.com/amirhosssein0/k8s-gitops-lab) | GitOps workflow with Helm & ArgoCD on Kubernetes |
 | [**k8s-operator-lab**](https://github.com/amirhosssein0/k8s-operator-lab) | Production-style Kubernetes Operator: CRD, reconciliation loop, OwnerReferences |
