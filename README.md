@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Amirhossein</h2>
-<h3 align="center">DevOps & Platform Engineer | DevSecOps Enthusiast</h3>
+<h3 align="center">Platform Engineer | DevSecOps Enthusiast</h3>
 
 <p align="center">
 I build production-realistic infrastructure and Kubernetes-native platforms — with security baked in from day one, not bolted on afterward.
