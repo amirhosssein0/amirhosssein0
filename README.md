@@ -91,5 +91,5 @@ I learn best by building real, end-to-end systems rather than isolated tutorials
 ### 📜 Certifications
 
 <p align="center">
-  <img src="my-cka.png" width="140"/>&nbsp;&nbsp;&nbsp;<img src="cisco.png" width="140"/>
+  <img src="my-cka.png" width="140"/>&nbsp;&nbsp;&nbsp;<img src="Cisco.png" width="140"/>
 </p>
