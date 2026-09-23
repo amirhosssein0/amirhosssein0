@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋, I'm Amirhossein</h2>
-<h3 align="center">Platform Engineer | DevSecOps Enthusiast</h3>
+<h3 align="center">Platform Engineer | DevSecOps | AI Platform Enthusiast</h3>
 
 <p align="center">
-I build production-realistic infrastructure and Kubernetes-native platforms — with security baked in from day one, not bolted on afterward.
+I build production-realistic infrastructure and Kubernetes-native platforms — with security baked in from day one, not bolted on afterward. Lately that includes the platform layer for LLM and RAG workloads: vector databases, self-hosted model serving, and GPU-ready infrastructure.
 </p>
 
 ---
@@ -10,6 +10,7 @@ I build production-realistic infrastructure and Kubernetes-native platforms — 
 ### 🎯 What I Focus On
 
 - **Platform Engineering** — designing Kubernetes platforms that other engineers can actually build on top of (GitOps, self-service, sane defaults)
+- **AI Platform Engineering** — running LLM and RAG workloads as first-class Kubernetes citizens: vector storage with Qdrant and pgvector, self-hosted model serving with Ollama, vLLM and KServe, a unified LiteLLM gateway in front of models, and NVIDIA GPU / CUDA-aware infrastructure
 - **DevSecOps** — shift-left scanning, admission control, and runtime security as a standard part of every deployment pipeline, not an afterthought
 - **Infrastructure as Code** — Terraform-first, cost-conscious, reproducible environments
 - **Cloud-native Architecture** — event-driven systems, autoscaling, and observability on Kubernetes
@@ -19,10 +20,24 @@ I learn best by building real, end-to-end systems rather than isolated tutorials
 
 ---
 
+### 🤖 AI Platform Engineering
+
+Most AI demos stop at a notebook. I focus on what comes after: how an LLM-powered application is actually **deployed, secured, and operated** in production.
+
+- **RAG pipelines** — document ingestion, embedding, vector retrieval, and grounded generation, deployed as regular Kubernetes workloads
+- **Vector databases** — Qdrant for dedicated vector search, pgvector for keeping embeddings next to relational data in PostgreSQL
+- **Self-hosted model serving** — Ollama for quick local inference, vLLM for high-throughput serving, KServe for Kubernetes-native model deployment and scaling
+- **LLM gateway** — LiteLLM as a single OpenAI-compatible entry point in front of self-hosted and external models
+- **GPU infrastructure** — NVIDIA GPU scheduling on Kubernetes and CUDA-aware runtime setup
+- **Security & operations first** — secrets from Vault, NetworkPolicies, ResourceQuotas, and GitOps delivery apply to AI workloads exactly as they do to any other service
+
+---
+
 ### 🚀 Highlighted Projects
 
 | Project | What it demonstrates |
 |---|---|
+| [**ai-platform-lab**](https://github.com/amirhosssein0/ai-platform-lab) | AI platform on Kubernetes (K3s) delivered via GitOps: Argo CD + Helm, a RAG backend with Qdrant and PostgreSQL, secrets injected by Vault Agent Injector, NetworkPolicies and ResourceQuotas, and a CI pipeline publishing images to GHCR |
 | [**jenkins-security-lab**](https://github.com/amirhosssein0/jenkins-security-lab) | Jenkins CI with dynamic K8s agents feeding a full software supply-chain security pipeline: Checkov IaC scanning, Kaniko rootless builds, Syft SBOM generation, Trivy CVE gating, Cosign signing & attestation, Kyverno enforce-mode admission control, Falco runtime monitoring, Velero+MinIO backups — all local-first on kind |
 | [**kafka-and-security-lab**](https://github.com/amirhosssein0/kafka-and-security-lab) | Event-driven architecture (Kafka + KEDA) on AKS with a full DevSecOps pipeline: Trivy, Checkov, Kyverno, Falco, Velero, GitOps via ArgoCD |
 | [**k8s-gitops-lab**](https://github.com/amirhosssein0/k8s-gitops-lab) | GitOps workflow with Helm & ArgoCD on Kubernetes |
@@ -52,6 +67,19 @@ I learn best by building real, end-to-end systems rather than isolated tutorials
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+**AI & LLM Infrastructure**
+
+![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logoColor=white)
+![RAG Pipeline](https://img.shields.io/badge/RAG_Pipeline-FF6F00?style=for-the-badge&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-1E88E5?style=for-the-badge&logoColor=white)
+![KServe](https://img.shields.io/badge/KServe-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![NVIDIA GPU](https://img.shields.io/badge/NVIDIA_GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 **CI/CD & GitOps**
 
