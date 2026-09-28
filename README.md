@@ -28,9 +28,8 @@ I build Kubernetes platforms with security baked in from day one, including the 
 
 ### 🧰 Tech Stack
 
-| | |
-|---|---|
-| **Languages & OS** | 
+**Languages & OS**<br>
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -50,8 +49,10 @@ I build Kubernetes platforms with security baked in from day one, including the 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
- |
-| **Cloud & IaC** | 
+
+
+**Cloud & IaC**<br>
+
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
@@ -67,8 +68,10 @@ I build Kubernetes platforms with security baked in from day one, including the 
 
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
- |
-| **Containers** | 
+
+
+**Containers**<br>
+
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
@@ -88,8 +91,10 @@ I build Kubernetes platforms with security baked in from day one, including the 
 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
- |
-| **CI/CD & GitOps** | 
+
+
+**CI/CD & GitOps**<br>
+
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
@@ -101,8 +106,10 @@ I build Kubernetes platforms with security baked in from day one, including the 
 
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
- |
-| **AI Infra** | 
+
+
+**AI Infra**<br>
+
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
@@ -134,8 +141,10 @@ I build Kubernetes platforms with security baked in from day one, including the 
 
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
- |
-| **Observability** | 
+
+
+**Observability**<br>
+
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
@@ -159,8 +168,10 @@ I build Kubernetes platforms with security baked in from day one, including the 
 
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
 
- |
-| **Security** | 
+
+
+**Security**<br>
+
 
 ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black)
 
@@ -188,8 +199,10 @@ I build Kubernetes platforms with security baked in from day one, including the 
 
 ![Syft](https://img.shields.io/badge/Syft-0B5FFF?style=flat-square&logoColor=white)
 
- |
-| **Data & Backup** | 
+
+
+**Data & Backup**<br>
+
 
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
@@ -205,7 +218,7 @@ I build Kubernetes platforms with security baked in from day one, including the 
 
 ![Velero](https://img.shields.io/badge/Velero-3D67D6?style=flat-square&logoColor=white)
 
- |
+
 
 ### 📜 Certifications
 
